@@ -7,6 +7,7 @@
 - [의존성 역전 원칙을 준수한 코드](https://www.notion.so/SOLID-DIP-a74baeb60dd341e6a09894f655a8db68)
 - [정리](https://www.notion.so/SOLID-DIP-a74baeb60dd341e6a09894f655a8db68)
 
+<br>
 ### 의존성 역전 원칙
 
 ---
@@ -21,6 +22,7 @@
 
 즉, 가급적 객체의 상속은 인터페이스를 통해 이루어져야 한다는 의미로 해석할 수 있다.
 
+<br>
 ### 의존성 역전 원칙을 준수하지 않은 코드
 
 ---
@@ -144,6 +146,7 @@ public class Character
 
 즉, OCP 규칙을 위배한다.
 
+<br>
 ### 의존성 역전 윈칙을 준수한 코드
 
 ---
@@ -305,6 +308,7 @@ public class Character
 
 개방 폐쇄 원칙 (OCP) 또한 준수할 수 있다.
 
+<br>
 ### 정리
 
 ---
