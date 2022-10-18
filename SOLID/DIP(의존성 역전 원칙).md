@@ -2,10 +2,10 @@
 
 ### 목차
 
-- [의존성 역전 원칙 (Dependency Inversion Principle)](https://www.notion.so/SOLID-DIP-a74baeb60dd341e6a09894f655a8db68)
-- [의존성 역전 원칙을 준수하지 않은 코드](https://www.notion.so/SOLID-DIP-a74baeb60dd341e6a09894f655a8db68)
-- [의존성 역전 원칙을 준수한 코드](https://www.notion.so/SOLID-DIP-a74baeb60dd341e6a09894f655a8db68)
-- [정리](https://www.notion.so/SOLID-DIP-a74baeb60dd341e6a09894f655a8db68)
+- [의존성 역전 원칙 (Dependency Inversion Principle)](#의존성 역전 원칙)
+- [의존성 역전 원칙을 준수하지 않은 코드](#의존성 역전 원칙을 준수하지 않은 코드)
+- [의존성 역전 원칙을 준수한 코드](#의존성 역전 윈칙을 준수한 코드)
+- [정리](#정리)
 
 <br>
 
