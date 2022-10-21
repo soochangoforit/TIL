@@ -166,7 +166,6 @@ public class Pos
      *
      * @param purchasable : [Purchasable] Purchasable 인터페이스
      * @param price: [int] 금액
-     *
      * @return [boolean] 결제 결과
      */
     public boolean purchase(Purchasable purchasable, int price)
