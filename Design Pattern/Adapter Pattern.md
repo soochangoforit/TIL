@@ -1,7 +1,6 @@
 # 어댑터 패턴 (Adapter Pattern)
 
-유형: 정리 필요
-작성자: 수찬 이
+
 
 ### 목차
 
@@ -195,6 +194,8 @@ public class App {
 ✅ Adapter에 대한 별도의 코드를 만들었고 기존의 Target(Security)에 대한 코드는 건드리지 않았다.
 
 </aside>
+
+<br>
 
 <aside>
 ✅ 물론 각각의 Account와 AccountService가  UserDetails, UserDetailsService를  implement하게 해도 괜찮지만 , SRP 원칙에 위배된다.
