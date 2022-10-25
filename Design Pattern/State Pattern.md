@@ -187,6 +187,8 @@ onlineCourses 에 넣어주고, isAvailable()를 통해서 실제 수강 가능�
 
 </aside>
 
+<br>
+ 
 **State** 
 
 ```java
@@ -206,7 +208,8 @@ State Interface를 구현한 구체적인 클래스가 Context 상태에 따라�
 정의하기 위해서
 
 </aside>
-
+<br>
+ 
 **OnlineCourse** 
 
 ```java
@@ -242,13 +245,15 @@ public class OnlineCourse {
 다만 자신의 Context의 State를 변경하기 위해서 특정 **changeState**는 필요하다
 
 </aside>
-
+<br>
+ 
 <aside>
 ✅ 추가적으로 Online Course라는 Context 역할을 하는 객체는 
 **우리가 정의한 State 중에서 기본적으로 특정 State를 Default로 바라보고 있어야 한다.**
 
 </aside>
-
+<br>
+ 
 **Client** 
 
 ```java
@@ -274,7 +279,8 @@ public class Client {
     }
 }
 ```
-
+<br>
+ 
 **Draft State**
 
 ```java
@@ -300,7 +306,8 @@ public class Draft implements State {
     }
 }
 ```
-
+<br>
+ 
 <aside>
 ✅ State Interface를 구체적으로 구현한 Class 같은 경우는 
 자신 Class의 상태에 따라서 다르게 행동한 결과를 Online Class에 가지고 있는 Field에 데이터를 반영 해야하기 때문에
@@ -311,7 +318,8 @@ public class Draft implements State {
 Context의 State를 변경해야 한다.
 
 </aside>
-
+<br>
+ 
 **Private State**
 
 ```java
@@ -342,7 +350,8 @@ public class Private implements State {
     }
 }
 ```
-
+<br>
+ 
 **Published State**
 
 ```java
