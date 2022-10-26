@@ -82,10 +82,10 @@ public class Client {
 }
 ```
 
+출력
+ → 오징어게임
 
-→ 오징어게임
-
-→ 보는게 하는거 보다 재밌을 수가 없지…
+ → 보는게 하는거 보다 재밌을 수가 없지…
 
 <br>
  
@@ -302,6 +302,7 @@ public class TrimmingCommentDecorator extends CommentDecorator {
 자식에서 부모의 Operation (addComment)을 **재정의**를 하는데 해당 ConcreteDecorator의 **목적에 맞게끔** 추가적인 정의를 한다.
 
 </aside>
+
 <br>
 
 **SpamFilteringCommentDecorator** 
@@ -352,6 +353,7 @@ public class Client {
 DIP 만족하기 위해서
 
 </aside>
+
 <br>
 
 **App**
@@ -439,6 +441,7 @@ public class App {
 ✅ OCP와 DIP 원칙을 준수할 수 있다.
 
 </aside>
+
 <br>
  
 
