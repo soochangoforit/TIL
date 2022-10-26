@@ -439,8 +439,8 @@ public class App {
  
 <aside>
 ✅ OCP와 DIP 원칙을 준수할 수 있다.
-
 </aside>
+
 
 <br>
  
