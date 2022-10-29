@@ -40,6 +40,10 @@
 
 <br>
  
+![image](https://user-images.githubusercontent.com/91618389/198836503-36198408-c17f-4c84-a47a-33c7ac29fa00.png)
+
+<br> 
+ 
 ### 왜 필요한가?
 
 ---
