@@ -12,6 +12,8 @@
 - 추상 팩토리 패턴 장점과 단점 (팩토리 메소드와의 차이점)
 - 다른 패턴과의 관계는?
 
+<br>
+ 
 ### 추상 팩토리 (Abstract factory) 패턴
 
 ---
@@ -99,7 +101,6 @@ public class WhiteshipFactory extends DefaultShipFactory {
 ✅ 현재 이번 실습에서는 위의 코드는 Client 코드에 해당한다.
 
 </aside>
-
 <br>
  
 
