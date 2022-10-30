@@ -4,13 +4,13 @@
  
 ### 목차
 
-- [옵저버 패턴](https://www.notion.so/Observer-d3ece20ab88a478d81f0aaf63f3c6020)
-- [왜 필요한가?](https://www.notion.so/Observer-d3ece20ab88a478d81f0aaf63f3c6020)
-- [어떻게 사용할까?](https://www.notion.so/Observer-d3ece20ab88a478d81f0aaf63f3c6020)
-- [Before](https://www.notion.so/Observer-d3ece20ab88a478d81f0aaf63f3c6020)
-- [After](https://www.notion.so/Observer-d3ece20ab88a478d81f0aaf63f3c6020)
-- [장단점](https://www.notion.so/Observer-d3ece20ab88a478d81f0aaf63f3c6020)
-- [다른 패턴과의 관계](https://www.notion.so/Observer-d3ece20ab88a478d81f0aaf63f3c6020)
+- 옵저버 패턴
+- 왜 필요한가?
+- 어떻게 사용할까?
+- Before
+- After
+- 장단점
+- 다른 패턴과의 관계
 
 
 <br>
