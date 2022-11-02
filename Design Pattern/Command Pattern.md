@@ -55,16 +55,24 @@ Receiver : 요청에 의한 실질적인 작업을 담당, ex) Light
 <br>
  
 
+<br>
+ 
 ![ss](https://user-images.githubusercontent.com/91618389/199550173-7483f1e6-88e4-4e61-9705-c159edc3e052.png)
 
+<br>
+ 
 - Command 패턴에서 중요한 책임을 가진 객체들은 총 4개로 `Invoker`, `Receiver`, `Client`, 그리고 `Command`가 있다.
 - `Client` 는 `Context`와 결합되어, 객체들을 생성하거나 오케스트레이션하여 진행하는 역할을 한다.
 - `Command`는 요청을 캡슐화하고 요청을 실행할 `Reciever`를 알고 있으며, 요청을 하는 역할을 한다.
 - `Invoker`는 추상화된 `Command`를 주입받을수 있고, 이를 실행하는 일을 하며, `Template Method` 패턴으로서 다른 부수적인 책임을 수행하기도 한다
 - `Reciver` 는 실질적으로 요청을 실행하는 일을 한다
 
+<br>
+ 
 ![dd](https://user-images.githubusercontent.com/91618389/199550171-baae2ff7-8aaf-47b0-bd68-ccfd5273eede.png)
 
+<br>
+ 
 1. **Invoker**
     - 요청을 시작하는 역할을 한다.
     - 이 클래스는 명령 객체에 대한 참조를 저장하기 위한 필드가 있어야 한다.
