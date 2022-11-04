@@ -81,7 +81,7 @@
 
 1. Context는 알고리즘을 실행해야 할 때마다 연결된 Strategy 구현체의 실행 Method를 호출한다. Context는 어떤 유형의 Strategy과 함께 작동하는지 또한 알고리즘이 어떻게 실행되는지 모른다.
 
-1. Clientㄴ은 특정 Strategy 구현체를 생성하여 Context에게 전달한다. Context는 Client가 런타임에 Context와 관련된 Strategy를 대체할 수 있도록 하는 Setter를 노출한다.
+1. Client 특정 Strategy 구현체를 생성하여 Context에게 전달한다. Context는 Client가 런타임에 Context와 관련된 Strategy를 대체할 수 있도록 하는 Setter를 노출한다.
 
 <br>
  
